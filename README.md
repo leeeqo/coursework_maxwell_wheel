@@ -6,7 +6,7 @@ To solve the problem of visualizing the movement of the Maxwell pendulum, a prog
 
 Project structure:
 
-- [Header file](resource_kurs.)
+- [Header file](resource_kurs.h)
 - [Resource script file](Script_kurs.rc)
 - [Main file](main_kurs.cpp)
-- [Coursework text (in Russian)](text_Pershin.cpp)
+- [Coursework text (in Russian)](text_Pershin.pdf)
